@@ -448,6 +448,7 @@ img {
 .works .title-h3 {
   margin-top: 0;
   margin-bottom: 4px;
+  padding-left: 24px;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -458,6 +459,7 @@ img {
 .works .text {
   margin-top: 0;
   margin-bottom: 20px;
+  padding-left: 24px;
   color: var(--secondary-text-color);
   font-size: 16px;
   font-style: normal;
